@@ -98,13 +98,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name> Releases Nexus Repository</name>
-	      <url>http://54.179.123.255:8081/repository/icicibank-Release/</url>
+	      <url>http://54.179.123.255:8081/repository/maven-releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name> Snapshot Nexus Repository </name>
-	      <url>http://54.179.123.255:8081/repository/icicibank-Snapshot/></url>
+	      <url>http://54.179.123.255:8081/repository/maven-snapshots/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
